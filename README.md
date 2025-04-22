@@ -9,7 +9,7 @@ The project follows a modular structure, integrating data processing, machine le
 ![alt text](Algerian_Forest_Fire_Arch-1.png)
 
 
-🔄 Workflow Diagram
+🔄 Workflow 
 
 The workflow encompasses data handling, model training, and deployment phases:​
 
