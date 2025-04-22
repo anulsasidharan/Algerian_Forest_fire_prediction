@@ -2,14 +2,14 @@
 
 ![alt text](Algerian_Forest.jpg)
 
-🧱 Project Architecture Diagram
+### 🧱 Project Architecture Diagram
 
 The project follows a modular structure, integrating data processing, machine learning, and web deployment components
 
 ![alt text](Algerian_Forest_Fire_Arch-1.png)
 
 
-🔄 Workflow 
+### 🔄 Workflow 
 
 The workflow encompasses data handling, model training, and deployment phases:​
 
