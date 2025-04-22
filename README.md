@@ -35,3 +35,7 @@ The workflow encompasses data handling, model training, and deployment phases:â€
 6. Deployment:
    - Deploy Flask app to a web server (e.g., AWS Elastic Beanstalk ).
    - Users input data via web interface to get predictions.
+
+### AWS Deployment Archetecture
+
+![alt text](Algerian_Forest_fire_AWS_deployment.png)
