@@ -2,7 +2,7 @@
 
 This project is a machine learning-based web application that predicts the occurrence of forest fires in the Algerian region using meteorological data. It demonstrates a complete end-to-end ML pipeline, from data preprocessing and model training to deployment using Flask and a clean, intuitive web interface.
 
-##🌲 Objective
+## 🌲 Objective
 
 The primary goal is to predict forest fire occurrences based on environmental features such as temperature, humidity, wind speed, and rainfall. The model can assist environmental authorities and disaster management teams in early fire detection and prevention planning.
 
